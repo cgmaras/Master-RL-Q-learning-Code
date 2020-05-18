@@ -10,6 +10,8 @@ import copy
 import time
 #import ga
 #import pandas as pd
+
+
 dim=6
 reward_options={'type': 'sum_new_linear',
 'number_limit_criteria': 2,
